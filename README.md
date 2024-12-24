@@ -1,10 +1,6 @@
-# Hi there, I'm Brian Hulela 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=brianhulela&color=blueviolet)
 
-## 🔧 About Me
-
-I'm **Brian Hulela**, a tech enthusiast and problem-solver with a BSc in Computer Science and Applied Mathematics, and a BSc Honours in Big Data Analytics from the **University of the Witwatersrand**. I specialize in **Data Science**, **Artificial Intelligence**, **Cloud Computing**, and **Software Engineering**, driven by a passion for turning ideas into impactful solutions.
+I'm **Brian Hulela**, a skilled professional with a BSc in Computer Science and Applied Mathematics, and a BSc Honours in Big Data Analytics from the **University of the Witwatersrand**. I specialize in **Data Science**, **Artificial Intelligence**, **Cloud Computing**, and **Software Engineering**, driven by a passion for turning ideas into impactful solutions.
 
 - 🌱 I’m currently diving deeper into **AWS** and **Machine Learning**.
 - 👯️ I’m open to collaborations on **Open Source** and **Private Projects**.
@@ -36,40 +32,6 @@ I'm **Brian Hulela**, a tech enthusiast and problem-solver with a BSc in Compute
 - MySQL
 - Firestore
 - DynamoDB
-
-### **Tools**
-- Docker
-- Git
-- Jupyter Notebook
-
----
-
-## 📖 Recent Articles & Projects
-
-### **Guava Disease Detection with Deep Learning**
-*How Convolutional Neural Networks (CNNs) can help detect diseases in guava fruits.*  
-[Read more](https://medium.com/@brianhulela/guava-disease-detection-with-deep-learning-94c20827b18a)
-
-### **Stock Price Forecasting: Gated Recurrent Unit (GRU)**
-*Using Gated Recurrent Units to predict future stock trends.*  
-[Read more](https://medium.com/@brianhulela/stock-price-forecasting-gated-recurrent-unit-gru-4d5a6b7e9f0e)
-
-### **Optimizing Double Moving Average Crossover with Grid Search**
-*Trading strategy optimization for maximum growth.*  
-[Read more](https://medium.com/@brianhulela/optimizing-double-moving-average-crossover-with-grid-search-6d7e8f9b0c3a)
-
----
-
-## 🎯 GitHub Stats & Insights
-
-### **Accurate Stats Using Alternative Libraries**
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianhulela&show_icons=true&theme=radical&hide=issues)
-
-### **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhulela&layout=compact&theme=radical&langs_count=8)
-
-### **Contribution Graph**
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianhulela&theme=github)
 
 ---
 
