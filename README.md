@@ -5,7 +5,7 @@ I'm **Brian Hulela**, a skilled professional with a BSc in Computer Science and 
 - 🌱 I’m currently diving deeper into **AWS** and **Machine Learning**.
 - 👯️ I’m open to collaborations on **Open Source** and **Private Projects**.
 - 🔊 Ask me about **Python, Machine Learning, Optimization, Cloud, and Data Analytics**.
-- 📢 Find me on [my website](https://hulela.co.za/) or [email me](mailto:info@hulela.co.za).
+- 📢 Find me on [my website](https://hulela.co.za/).
 - ✨ Fun fact: I’m into **Digital Art** and **3D Animation** in my free time.
 
 ---
