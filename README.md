@@ -7,10 +7,10 @@
 I’m Brian Hulela, a skilled professional with a BSc in Computer Science and Applied Mathematics and a BSc Honours in Big Data Analytics from the University of the Witwatersrand. My work centers on Data Science, Artificial Intelligence, Cloud Computing, and Software Engineering. I am passionate about leveraging data and advanced technologies to build innovative solutions that solve complex problems and deliver meaningful impact.
 
 - 🌱 I’m currently learning **AWS and Machine Learning**
-- 👯 I’m looking to collaborate on **open source** and **private** projects
+- 👯 I’m looking to collaborate on **Open Source** and **Private** projects
 - 💬 Ask me about **Python, Machine Learning, Optimization, Data and AWS**
-- 📫 How to reach me: [Email](brianhulela@gmail.com)
-- ⚡ Fun fact: I enjoy digital art and 3D animation
+- 📫 How to reach me: [My Website](https://hulela.co.za/)
+- ⚡ Fun fact: I enjoy **Digital Art and 3D Animation**
 
 ## Skills
 
@@ -22,9 +22,9 @@ I’m Brian Hulela, a skilled professional with a BSc in Computer Science and Ap
 ## Connect with Me
 
 - [My Website](https://hulela.co.za/)
-- [Medium]([https://www.linkedin.com/in/brianhulela](https://medium.com/@brianhulela))
-- [X]([https://twitter.com/brianhulela](https://x.com/BrianHulela))
-- [Substack]([https://brianhulela.dev/blog](https://substack.com/@brianhulela))
+- [Medium](https://medium.com/@brianhulela)
+- [X](https://x.com/BrianHulela)
+- [Substack](https://substack.com/@brianhulela)
 
 ## GitHub Stats
 
