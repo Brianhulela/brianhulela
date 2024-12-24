@@ -37,10 +37,10 @@ I'm **Brian Hulela**, a skilled professional with a BSc in Computer Science and 
 
 ## 📢 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-Hulela-blue)](https://hulela.co.za/)  
-[![Medium](https://img.shields.io/badge/Medium-%40brianhulela-green)](https://medium.com/@brianhulela)  
+[![Website](https://img.shields.io/badge/Website-Hulela-green)](https://hulela.co.za/)  
+[![Medium](https://img.shields.io/badge/Medium-%40brianhulela-black)](https://medium.com/@brianhulela)  
 [![Substack](https://img.shields.io/badge/Substack-%40brianhulela-orange)](https://substack.com/@brianhulela)  
-[![X](https://img.shields.io/badge/Twitter-%40BrianHulela-blue)](https://x.com/BrianHulela)
+[![X](https://img.shields.io/badge/X-%40BrianHulela-black)](https://x.com/BrianHulela)
 
 ---
 
