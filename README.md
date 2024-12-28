@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=brianhulela&color=blueviolet)
-
 I'm **Brian Hulela**, a skilled professional with a BSc in Computer Science and Applied Mathematics, and a BSc Honours in Big Data Analytics from the **University of the Witwatersrand**. I specialize in **Data Science**, **Artificial Intelligence**, **Cloud Computing**, and **Software Engineering**, driven by a passion for turning ideas into impactful solutions.
 
 - 🌱 I’m currently diving deeper into **AWS** and **Machine Learning**.
