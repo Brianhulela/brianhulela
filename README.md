@@ -1,6 +1,6 @@
 <!-- LOGO -->
 <div>
-  <img src="https://www.hulela.co.za/logo.svg" alt="Brian Hulela Logo" width="120">
+  <img src="https://www.hulela.co.za/logo.svg" alt="Brian Hulela Logo" width="120" style="margin-bottom: 20px;>
 </div>
 
 <div style="max-width: 700px; font-family: Arial, sans-serif; line-height: 1.6;">
