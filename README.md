@@ -6,15 +6,15 @@
 <br></br>
 
 <div style="max-width: 700px; font-family: Arial, sans-serif; line-height: 1.6;">
-  <p>My work connects data, AI, and software — not as separate pieces, but as one system built to automate processes and drive real growth.</p>
+  <p>Most people treat data, AI, and software as separate disciplines. I think that's the wrong way to build anything that actually works.</p>
 
-  <p>I think a lot about long-term digital infrastructure, the kind that gives Africa real ownership and economic leverage.</p>
+<p>My work brings all three together as one system, focused on automating the processes that slow things down and creating the conditions for real, measurable growth.</p>
 
-  <p>That idea of Pax Africana through technology isn't abstract to me; it's the direction I want my work to point.</p>
+<p>But the deeper interest is infrastructure: who builds it, who owns it, and who it serves in the long run.</p>
 
-  <p>
-  I am a Computer Science and Applied Mathematics graduate from the University of the Witwatersrand, with an Honours degree in Big Data Analytics.
-</p>
+<p>Africa's next era of economic strength won't come from adopting other people's systems. It will come from building its own, and that's what Pax Africana through technology means in practice, not in theory.</p>
+
+<p>I studied Computer Science and Applied Mathematics at the University of the Witwatersrand, and pushed further with an Honours degree in Big Data Analytics, because that kind of ambition demands a sharp technical foundation.</p>
 
  <h2>Focus</h2>
  
