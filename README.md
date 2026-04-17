@@ -17,6 +17,9 @@
   <p>
   I am a Computer Science and Applied Mathematics graduate from the University of the Witwatersrand, with an Honours degree in Big Data Analytics.
 </p>
+
+ <h2>Focus</h2>
+ 
   <p>
     Developing autonomous data-driven systems with advanced cloud backends and mordern interactive front-ends<br>
     Exploring machine learning applications in algorithmic trading and long-term investement strategies<br>
