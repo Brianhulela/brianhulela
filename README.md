@@ -1,15 +1,12 @@
 <!-- LOGO -->
-<div align="center">
+<div>
   <img src="path/to/your-logo.png" alt="Brian Hulela Logo" width="120">
 </div>
 
-<br>
+<h1>Brian Hulela</h1>
 
-<div align="center">
-  <h1>Brian Hulela</h1>
-</div>
+<div style="max-width: 700px;">
 
-<div align="center" style="max-width: 700px; margin: 0 auto; text-align: left;">
   <p>
     I am Brian Makhubele (Hulela), a Computer Science and Applied Mathematics graduate from the University of the Witwatersrand, with an Honours degree in Big Data Analytics.
   </p>
@@ -81,4 +78,5 @@
   <p>
     If you are building something meaningful, I am open to collaboration.
   </p>
+
 </div>
