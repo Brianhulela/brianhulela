@@ -17,22 +17,10 @@
   <p>
   I am a Computer Science and Applied Mathematics graduate from the University of the Witwatersrand, with an Honours degree in Big Data Analytics.
 </p>
-
-  <h2>Focus Areas</h2>
-
   <p>
-    Data Science and Machine Learning<br>
-    Artificial Intelligence Systems<br>
-    Cloud Computing (AWS, GCP)<br>
-    Software Engineering
-  </p>
-
-  <h2>Current Work</h2>
-
-  <p>
-    Developing production-ready systems using Python and cloud platforms<br>
-    Exploring machine learning applications in finance and decision systems<br>
-    Building and growing digital platforms through <a>www.hulela.co.za</a>
+    Developing autonomous data-driven systems with advanced cloud backends and mordern interactive front-ends<br>
+    Exploring machine learning applications in algorithmic trading and long-term investement strategies<br>
+    Growing information-sharing platforms through <a href="https://www.hulela.co.za" target="_blank">www.hulela.co.za</a>
   </p>
 
   <h2>Tools</h2>
