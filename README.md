@@ -32,16 +32,16 @@
 
   <h2>Tools</h2>
   <div>
-    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Python</span>
-    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">JavaScript</span>
-    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Java</span>
-    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">React</span>
-    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Next.js</span>
-    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">AWS</span>
-    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Google Cloud</span>
-    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Firestore</span>
-    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Rust</span>
-    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Linux</span>
+    <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #444; border-radius:16px; background-color:#f6f8fa;">Python</span>
+    <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #444; border-radius:16px; background-color:#f6f8fa;">JavaScript</span>
+    <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #444; border-radius:16px; background-color:#f6f8fa;">Java</span>
+    <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #444; border-radius:16px; background-color:#f6f8fa;">React</span>
+    <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #444; border-radius:16px; background-color:#f6f8fa;">Next.js</span>
+    <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #444; border-radius:16px; background-color:#f6f8fa;">AWS</span>
+    <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #444; border-radius:16px; background-color:#f6f8fa;">Google Cloud</span>
+    <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #444; border-radius:16px; background-color:#f6f8fa;">Firestore</span>
+    <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #444; border-radius:16px; background-color:#f6f8fa;">Rust</span>
+    <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #444; border-radius:16px; background-color:#f6f8fa;">Linux</span>
   </div>
 
   <h2>Work and Writing</h2>
