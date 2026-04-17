@@ -6,13 +6,11 @@
 <br></br>
 
 <div style="max-width: 700px; font-family: Arial, sans-serif; line-height: 1.6;">
-  <p>
-    My work focuses on building practical systems across data, artificial intelligence, and software.
-  </p>
+  <p>My work connects data, AI, and software — not as separate pieces, but as one system built to automate processes and drive real growth.</p>
 
-  <p>
-    I am interested in long-term digital infrastructure and the idea of Pax Africana through technology, where African-built systems create stability, ownership, and economic strength.
-  </p>
+  <p>I think a lot about long-term digital infrastructure, the kind that gives Africa real ownership and economic leverage.</p>
+
+  <p>That idea of Pax Africana through technology isn't abstract to me; it's the direction I want my work to point.</p>
 
   <p>
   I am a Computer Science and Applied Mathematics graduate from the University of the Witwatersrand, with an Honours degree in Big Data Analytics.
