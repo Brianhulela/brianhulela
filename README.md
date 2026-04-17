@@ -10,7 +10,7 @@
 
 <p>My work brings all three together as one system, focused on automating the processes that slow things down and creating the conditions for real, measurable growth.</p>
 
-<p>But the deeper interest is infrastructure: who builds it, who owns it, and who it serves in the long run.</p>
+<p>But technical work always sits inside a bigger context. Infrastructure is never neutral, and the question of who builds it, who owns it, and who it serves is one Africa cannot afford to get wrong.</p>
 
 <p>Africa's next era of economic strength won't come from adopting other people's systems. It will come from building its own, and that's what Pax Africana through technology means in practice, not in theory.</p>
 
