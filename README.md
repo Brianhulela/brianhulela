@@ -16,6 +16,8 @@
 
 <p>I studied Computer Science and Applied Mathematics at the University of the Witwatersrand, and pushed further with an Honours degree in Big Data Analytics, because that kind of ambition demands a sharp technical foundation.</p>
 
+<p>I am always learning. Every skill, tool, and concept I pick up goes into a toolbox I am deliberately building, one that will give me everything I need to turn this vision into something real.</p>
+
  <h2>Focus</h2>
  
   <p>
