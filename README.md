@@ -5,7 +5,7 @@
 
 <h1>Brian Hulela</h1>
 
-<div style="max-width: 700px;">
+<div style="max-width: 700px; font-family: Arial, sans-serif;">
 
   <p>
     I am Brian Makhubele (Hulela), a Computer Science and Applied Mathematics graduate from the University of the Witwatersrand, with an Honours degree in Big Data Analytics.
@@ -30,36 +30,19 @@
     <li>Building and growing digital platforms through hulela.co.za</li>
   </ul>
 
-  <h2>Skills</h2>
-
-  <h3>Languages</h3>
-  <ul>
-    <li>Python</li>
-    <li>JavaScript</li>
-    <li>Java</li>
-    <li>C++</li>
-  </ul>
-
-  <h3>Frameworks and Libraries</h3>
-  <ul>
-    <li>React</li>
-    <li>TensorFlow</li>
-    <li>PyTorch</li>
-    <li>Pandas</li>
-  </ul>
-
-  <h3>Cloud</h3>
-  <ul>
-    <li>AWS</li>
-    <li>Google Cloud</li>
-  </ul>
-
-  <h3>Databases</h3>
-  <ul>
-    <li>MySQL</li>
-    <li>Firestore</li>
-    <li>DynamoDB</li>
-  </ul>
+  <h2>Tools</h2>
+  <div>
+    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Python</span>
+    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">JavaScript</span>
+    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Java</span>
+    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">React</span>
+    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Next.js</span>
+    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">AWS</span>
+    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Google Cloud</span>
+    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Firestore</span>
+    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Rust</span>
+    <span style="display:inline-block; padding:6px 10px; margin:4px; border:1px solid #ccc; border-radius:12px;">Linux</span>
+  </div>
 
   <h2>Work and Writing</h2>
   <p>
