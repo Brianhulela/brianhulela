@@ -3,6 +3,8 @@
   <img src="https://www.hulela.co.za/logo.svg" alt="Brian Hulela Logo" width="120" style="margin-bottom: 20px;>
 </div>
 
+<br></br>
+
 <div style="max-width: 700px; font-family: Arial, sans-serif; line-height: 1.6;">
   <p>
     My work focuses on building practical systems across data, artificial intelligence, and software. I am interested in long-term digital infrastructure and the idea of Pax Africana through technology, where African-built systems create stability, ownership, and economic strength.
